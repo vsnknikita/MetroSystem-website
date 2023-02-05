@@ -1,0 +1,199 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,900);
+
+/* nav celeb{
+    width: 100px;
+    height: 70px;
+} */
+.main a{
+   
+        text-decoration: none;
+        color: red;
+   
+}
+nav img.logo{
+    /* display: inline-block;
+    line-height: 90%;
+    margin-left: 3.5%;
+    margin-top: 1.75%;
+    */
+    width: 300px;
+    height: 90px;
+    
+}
+nav img.koo{
+    /* display: inline-block;
+    line-height: 90%;
+    margin-left: 3.5%;
+    margin-top: 1.75%;
+    */
+    width: 30px;
+    height: 25px;
+    
+}
+/* header nav.adv.ima{
+     width: 50px;
+    height: 90px;
+} */
+.adv img{
+    height: 24px;
+    width: 24px;
+    align-items: left;
+    padding: 2px;
+}
+.adv{
+    background-color: rgb(251, 248, 248);
+}
+nav img{
+    /* display: inline-block;
+    line-height: 90%;
+    margin-left: 3.5%;
+    margin-top: 1.75%;
+    */
+    width: 150px;
+    height: 90px;
+    
+}
+.celeb{
+    float: right;
+}
+header nav.main{
+    background:rgb(188, 13, 13);
+   padding: 5px;
+    height: 100px;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+headernav.thirdnav {
+    display: inline;
+}
+/* header nav.main{
+    background-color: crimson;
+   padding: 5px;
+    height: 100px;
+    color: aliceblue;
+} */
+/* .navbar-nav{
+    display: inline;
+  } */
+section.top{
+    width: 100%;
+    height: 100%;
+    color: aliceblue;
+}
+.m{
+    color: aliceblue;
+}
+img.card{
+    display: inline;
+    align-items: center;
+    margin: 20px;
+}
+section.metrocard1,.metrocard3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+section.metrocard1 .btn{
+    width: 20%;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    
+}
+section.metrocard2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+div.metrocard2{
+    display:   inline-block;
+    margin: 20px;
+}
+.lt_single_line{
+    display: inline;
+}
+img.map{
+    margin-top: 20px;
+    height: 100%;
+    width: 100%;  
+}
+.image-1 {
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+  }
+  
+  .image-2 {
+    filter: sepia(100%);
+    -webkit-filter: sepia(100%);
+  }
+  footer {
+    position:relative;
+    bottom:0;
+    /* width:100%;
+    height:270px;   Height of the footer */
+    background:rgb(188, 13, 13);
+    float: bottom;
+    color: aliceblue;
+
+    padding-top: 10px;
+ }
+ .foot{
+    display: inline-block;
+    background-color: rgb(52, 49, 49);
+    color: rgb(188, 192, 197);
+    padding: 5px;
+    text-indent: 10em;  
+ }
+ .foot a{
+    text-decoration: none;
+    color: aliceblue;
+
+ }
+
+ /* smartcard 1 */
+ section.sm{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+div.sm{
+    display:   inline-block;
+    margin: 20px;
+    height: fit-content;
+    
+}
+.smd,.sm{
+    margin-left: 5em;
+    margin-right: 10em;
+}
+.myfoot{
+    margin-top: 13em;
+    height: 10px;
+}
+.myjs{
+    overflow: hidden;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 100px;
+
+}
+header nav.maint{
+    background:rgb(248, 238, 238);
+   padding: 5px;
+    height: 100px;
+    color: rgb(14, 15, 15);
+    font-size: xx-large;
+}
+.maint a{
+    text-decoration: none;
+    color: red;
+}
+
+.myjs button.btn{
+    height: 50px;
+    width: 100px;
+}
